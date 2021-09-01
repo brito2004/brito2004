@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @brito2004
+- 👀 I’m interested in Python and DataBase 
+- 🌱 I’m currently learning Python...
